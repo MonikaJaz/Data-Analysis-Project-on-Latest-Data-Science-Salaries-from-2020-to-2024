@@ -1,5 +1,5 @@
 # Data Analysis Project on Latest Data Science Salaries from 2020 to 2024
-
+*PROJECT IN PROGRESS*
 In this data analysis project, I conducted exploratory data analysis on a dataset pertaining to job salaries for data scientists obtained from the Kaggle platform. The dataset includes information such as job title, salary, experience level, etc. My objective is to extract meaningful insights from the data using Python and popular data analysis libraries.
 
 ## Dataset
